@@ -1,0 +1,4 @@
+[submodule "EndoStentElectrodeArray_private"]
+	path = EndoStentElectrodeArray_private
+	url = https://github.com/EngrIbrahimAdnan/EndoStentElectrodeArray_private.git
+	branch = main
