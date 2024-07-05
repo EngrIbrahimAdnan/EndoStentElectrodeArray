@@ -1,2 +1,45 @@
-# EndoStentElectrodeArray
-Development of a non-invasive neural recording method via endovascular stentrode arrays for chronic brain activity monitoring, addressing current limitations in invasive techniques. Referencing groundbreaking research in neural interface technology for therapeutic applications
+[![IMAGE ALT TEXT](https://github.com/EngrIbrahimAdnan/EndoStentElectrodeArray_private/assets/123921774/6ce65dee-1a11-436f-814c-8e98b9984f16)](https://www.youtube.com/watch?v=myFZS-dpUx8)
+
+# Endovascular Neural Recording Research
+
+Welcome to the public repository for our research on endovascular neural recording techniques. This repository provides a comprehensive overview of our work, including a detailed wiki explaining key terms and concepts related to our research.
+
+## Overview
+
+Our research focuses on developing a minimally invasive method to record neural activity using a device called a stentrode. The stentrode is a stent with electrodes attached, which can be placed within blood vessels to achieve chronic neural recordings. This approach aims to minimize the trauma and inflammation associated with traditional intracranial electrode arrays.
+
+## Repository Structure
+
+### Public Repository
+
+This public repository contains:
+- **Wiki**: A comprehensive glossary and explanation of key terms and concepts related to our research. It serves as an educational resource for those interested in neural recording technologies.
+- **README**: This document, providing an overview of the repository and its contents.
+
+### Private Repository (Submodule)
+
+In addition to this public repository, we maintain a private repository that contains all research files, including detailed experimental data, code, and proprietary information. The private repository is included here as a submodule.
+
+To access the private repository, you will need the appropriate permissions. If you are a collaborator or have been granted access, you can initialize and update the submodule using the following commands:
+
+```bash
+git submodule init
+git submodule update
+```
+
+## Accessing the Wiki
+
+The wiki in this public repository provides a detailed explanation of the following topics:
+- **Neurological Biocomponents**
+- **Bionics**
+- **Neural Bionic Devices**
+- **Chronic Neural Recording Devices**
+- **Intracranial Electrode Arrays**
+- **Stentrode**
+- **Vascular Electrocorticography (ECoG)**
+- **Endovascular Recording System**
+- **Sulcal Folds**
+- **Brain-Machine Interface (BMI)**
+- **Epilepsy Telemetry**
+
+We encourage you to explore the wiki to gain a deeper understanding of our research and the significance of endovascular neural recording techniques.
