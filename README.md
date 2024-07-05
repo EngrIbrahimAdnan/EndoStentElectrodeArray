@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT](https://github.com/EngrIbrahimAdnan/EndoStentElectrodeArray_private/assets/123921774/6ce65dee-1a11-436f-814c-8e98b9984f16)](https://www.youtube.com/watch?v=myFZS-dpUx8)
+[![IMAGE ALT TEXT](https://github.com/EngrIbrahimAdnan/EndoStentElectrodeArray/assets/123921774/c380fba4-9db7-4b78-937b-051ae6f9fee8)](https://www.youtube.com/watch?v=rlC5mqgnDWw)
 
 # Endovascular Neural Recording Research
 
